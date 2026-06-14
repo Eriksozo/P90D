@@ -1,0 +1,6 @@
+.DS_Store
+node_modules/
+*.log
+
+# Versão em português — subir somente o espanhol por enquanto
+deploy/pt/
